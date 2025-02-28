@@ -1,0 +1,10 @@
+# Workspace version: 1.42.58
+uvicorn[standard]==0.29.0
+fastapi==0.111.0
+python-multipart==0.0.9
+databutton==0.38.34
+ipykernel==6.29.5
+openai
+beautifulsoup4
+requests
+google-generativeai
